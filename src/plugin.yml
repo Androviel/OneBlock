@@ -25,3 +25,5 @@ permissions:
         default: false
     Oneblock.ignoreBarrier:
         default: op
+   Oneblock.worldguard:
+        default: true
